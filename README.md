@@ -1,17 +1,8 @@
 # Boardoza TH09C Temperature Humidity Sensor Breakout Board
-The TH09C integrates one relative humidity sensor and one high-accuracy temperature sensor. The device is encapsulated in a QFN4 package and includes an I<sup>2</sup>C slave interface for communication with a master processor.
+The TH09C Digital Temperature and Humidity Sensor Breakout Board offers reliable environmental monitoring with high accuracy and low power consumption. Featuring the TH09C sensor, this board provides precise digital temperature and humidity readings via an I<sup>2</sup>C interface. Its fast response time and high repeatability make it ideal for use in HVAC systems, weather stations, and other applications where environmental data is critical. 
 
-Ultra-accurate
-- Temperature sensor (±0.15°C)
-- Relative humidity sensor (Typ:±2.0%RH)
+### [Click here to purchase!](https://www.ozdisan.com/maker-and-iot-products/boardoza/boardoza-modules/BOARDOZA-TH09C/1206510)
 
-Wide sensing range
-- Temperature operating range (–40°C to 100°C)
-- Relative humidity operating range (0% to100%)
-### [Click here to purchase!](https://www.ozdisan.com)
-
-<!-- ChatGPT: The TH09C Digital Temperature and Humidity Sensor Breakout Board offers reliable environmental monitoring with high accuracy and low power consumption. Featuring the TH09C sensor, this board provides precise digital temperature and humidity readings via an I<sup>2</sup>C interface. Its fast response time and high repeatability make it ideal for use in HVAC systems, weather stations, and other applications where environmental data is critical. 
-### [Click here to purchase!](https://www.ozdisan.com) -->
 
 |Front Side|Back Side|
 |:---:|:---:|
@@ -19,16 +10,12 @@ Wide sensing range
 
 ---
 ## Key Features
-- Output directly in %RH and Kelvin
-- Wide supply voltage range 2V - 5.5V.
-- It easily communicates with an MCU with TTL I2C outputs.
+- Ultra-Accurate Sensing: Temperature sensor with ±0.15°C accuracy and relative humidity sensor with typical ±2.0%RH accuracy.
+- Wide Sensing Range: Supports temperature measurement from –40°C to 100°C and humidity from 0% to 100%.
+- Digital Output: Provides digital temperature and humidity readings via TTL I2C interface for easy integration.
+- Low Power Consumption: Optimized for battery-operated devices with minimal energy usage.
+-Compact Design: Small form factor suitable for a wide range of environmental monitoring applications.
 
-<!-- ChatGPT: 
-	•	Ultra-Accurate Sensing: Temperature sensor with ±0.15°C accuracy and relative humidity sensor with typical ±2.0%RH accuracy.
-	•	Wide Sensing Range: Supports temperature measurement from –40°C to 100°C and humidity from 0% to 100%.
-	•	Digital Output: Provides digital temperature and humidity readings via TTL I2C interface for easy integration.
-	•	Low Power Consumption: Optimized for battery-operated devices with minimal energy usage.
-	•	Compact Design: Small form factor suitable for a wide range of environmental monitoring applications. -->
 ---
 
 ## Technical Specifications
@@ -37,9 +24,17 @@ Wide sensing range
 
 **Voltage Input Type:**	Molex 4 pin 2.50mm header
 
+**Interface:** I<sup>2</sup>C  
+
 **Functions:**	Temprature and Humidity Sensor
 
+**Temperature Accuracy:** ±0.15°C  
+
+**Humidity Accuracy:** Typical ±2.0% RH  
+
 **Measurement Range:**	 -40°C ~ +100°C
+
+**Operating Humidity:** 0% to 100% RH  
 
 **Operating Temperature:**	-40°C ~ +100°C
 
